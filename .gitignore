@@ -1,0 +1,19 @@
+# Virtual environment
+dslab/
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache and temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# OS/metadata files
+.DS_Store
+Thumbs.db
+._*
+.DS_Store
+**/._*
