@@ -61,4 +61,4 @@ parkinson-prediction/
 
 - Little, M. A. et al. *Suitability of dysphonia measurements for telemonitoring of Parkinson's disease.* IEEE Transactions on Biomedical Engineering, 2009. UCI Machine Learning Repository.
 - Isenkul, M. E., Sakar, B. E., Kursun, O. *Improved spiral test using digitized graphics tablet for monitoring Parkinson's disease.* 2014. UCI Machine Learning Repository.
-- Drawing images: [add the source of the spiral/wave image dataset]
+<!-- TODO: add the source of the spiral/wave drawing image dataset -->
